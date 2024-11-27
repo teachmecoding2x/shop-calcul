@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+label, select, input, button {
+    margin: 10px 0;
+    display: block;
+}
+.summary {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.summary h2 {
+    margin-top: 0;
+}
